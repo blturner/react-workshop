@@ -1,0 +1,5 @@
+<ul>
+{{#repos}}
+    <li id="{{this.id}}">{{this.name}}</li>
+{{/repos}}
+</ul>
